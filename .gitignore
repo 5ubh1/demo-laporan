@@ -1,0 +1,6 @@
+# backup files created by tooling
+*.bak
+*.bak-*
+
+# macOS
+.DS_Store

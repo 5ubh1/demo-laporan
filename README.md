@@ -48,4 +48,7 @@ notes are all in one readable file — no framework, nothing to configure.
 
 ## License
 
-MIT
+No licence granted. This is demonstration material: the report layout and the
+sample data are shown so you can judge the output, not reused.
+
+Want a report like this built on your own data? Get in touch.
